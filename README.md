@@ -1,7 +1,7 @@
-BoomCVS
+BoomCSV
 =================
 
-Interact with CVS files to do fun things. Boom!
+Interact with CSV files to do fun things. Boom!
 
 This is a work in progress. 
 
